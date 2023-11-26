@@ -17,5 +17,5 @@ export const defaultUser: User = {
   firstName: "Matt",
   lastName: "Pocock",
   //// I_SHOULD_NOT_BE_ALLOWED does not fit constraint of type union
-  role: 'I_SHOULD_NOT_BE_ALLOWED',
+  role: 'I-SHOULD-NOT-BE-ALLOWED',
 };
